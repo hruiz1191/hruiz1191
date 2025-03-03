@@ -1,13 +1,29 @@
-**Hello Coders**
+## 👋 Hello Coders!
+
+I'm **Héctor Ruiz** (@hruiz1191), a passionate **Computer Science student** at **Holberton School**, currently diving into **C programming** and **Web Development**. My goal is to create innovative solutions in the fields of **Education**, **Gamification**, and **AR/XR** technology.
+
 ---
-- 👋 Hi, I’m @hruiz1191
-- 👀 I’m interested in Comunication and networking, Educational Software, Gamification, AR/XR.
-- 🌱 I’m currently learning C, Web Develop and new things @ Holberton Coding School.
-- 💞️ I’m looking to collaborate on educational, business,  AR/XR and all types of projects for entertiantment and education.
-- 📫 Contact me (Follow or/and DM)
-  - (Hobbie and entertainment) www.tiktok.com/@tatotruizpr
-  - (Education and Computer science) www.facebook.com/mruizcs
-- 😄 ⚡ 
+
+### 🌐 About Me
+- 👀 **Interests:** Educational Software, Gamification, Augmented Reality (AR), Extended Reality (XR), and Communication & Networking.
+- 🌱 **Currently Learning:** C Programming, Full-Stack Web Development, and cutting-edge technologies at Holberton Coding School.
+- 💡 **Looking to Collaborate On:** Educational apps, gamified experiences, creative projects for entertainment and learning, and all kinds of innovative digital tools.
+
+---
+
+### 📫 Let’s Connect!
+- 🎮 **Hobbies & Entertainment:** [TikTok - @tatotruizpr](https://www.tiktok.com/@tatotruizpr)
+- 🎓 **Education & Computer Science:** [Facebook - mruizcs](https://www.facebook.com/mruizcs)
+- 💼 **Professional Network:** [LinkedIn - hruizcs](https://www.linkedin.com/in/hruizcs)
+
+---
+
+### ⚡ Fun Fact
+I'm not just a coder — I also love creating **interactive stories, AR effects, and retro-style games** that blend creativity and technology. I believe learning should always be fun!
+
+---
+
+⚙️ **"Learning to code is like learning a superpower — and I'm here to share the magic!"**  
 
 <!---
 hruiz1191/hruiz1191 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
