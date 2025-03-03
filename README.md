@@ -1,6 +1,6 @@
 ## 👋 Hello Coders!
 
-I'm **Héctor Ruiz** (@hruiz1191), a passionate **Computer Science student** at **Holberton School**, currently diving into **C programming** and **Web Development**. My goal is to create innovative solutions in the fields of **Education**, **Gamification**, and **AR/XR** technology.
+I'm **Hruiz** (@hruiz1191), a passionate **Computer Science student** at **Holberton School**, currently diving into **C programming** and **Web Development**. My goal is to create innovative solutions in the fields of **Education**, **Gamification**, and **AR/XR** technology.
 
 ---
 
