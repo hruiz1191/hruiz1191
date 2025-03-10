@@ -17,14 +17,6 @@ I'm **Hruiz** (@hruiz1191), a passionate **Computer Science student** at **Holbe
 - 💼 **Professional Network:** [LinkedIn - hruizcs](https://www.linkedin.com/in/hruizcs)
 
 ---
-
-### ⚡ Fun Fact
-I'm not just a coder — I also love creating **interactive stories, AR effects, and retro-style games** that blend creativity and technology. I believe learning should always be fun!
-
----
-
-⚙️ **"Learning to code is like learning a superpower — and I'm here to share the magic!"**  
-
 <!---
 hruiz1191/hruiz1191 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
