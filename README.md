@@ -1,21 +1,49 @@
-## 👋 Hello Coders!
+# 💻 Hruiz – Creative Developer & Technologist
 
-I'm **Hruiz** (@hruiz1191), a passionate **Computer Science student** at **Holberton School**, currently diving into **C programming** and **Web Development**. My goal is to create innovative solutions in the fields of **Education**, **Gamification**, and **AR/XR** technology.
-
----
-
-### 🌐 About Me
-- 👀 **Interests:** Educational Software, Gamification, Augmented Reality (AR), Extended Reality (XR), and Communication & Networking.
-- 🌱 **Currently Learning:** C Programming, Full-Stack Web Development, and cutting-edge technologies at Holberton Coding School.
-- 💡 **Looking to Collaborate On:** Educational apps, gamified experiences, creative projects for entertainment and learning, and all kinds of innovative digital tools.
+Welcome! I'm **Hruiz** (@hruiz1191), a Computer Science graduate from **Holberton School** with a strong focus on **educational technology**, **gamified applications**, and **interactive media**. I build tools and experiences that blend **code, creativity, and learning** into meaningful digital products.
 
 ---
 
-### 📫 Let’s Connect!
-- 🎮 **Hobbies & Entertainment:** [TikTok - @tatotruizpr](https://www.tiktok.com/@tatotruizpr)
-- 🎓 **Education & Computer Science:** [Facebook - mruizcs](https://www.facebook.com/mruizcs)
-- 💼 **Professional Network:** [LinkedIn - hruizcs](https://www.linkedin.com/in/hruizcs)
+## 🚀 Specializations
 
+- 🎮 **Point-and-Click RPGs**  
+  Designing interactive storytelling engines and adventure systems focused on education and creativity.
+
+- 🧠 **Educational Compilers & Tools**  
+  Developing compilers and interpreters tailored for students and beginner programmers who want to learn by doing.
+
+- 🕹️ **Arcade-Style Games**  
+  Creating simple but addictive educational games with retro inspiration and modern goals.
+
+- 🌐 **Communication & Digital Literacy**  
+  Tools that help students express themselves, collaborate, and build critical tech skills.
+
+---
+
+## 🧩 Tech Stack
+
+- **Languages:** C, Python, HTML, CSS, JavaScript, Bash
+- **Tools & Frameworks:** Flask, Node.js, Git, Linux Terminal, Unity (basic), Tone.js
+- **Special Interests:** AR/XR integration, gamification logic, terminal-based learning apps
+
+---
+
+## 📚 Mission
+
+> “Code should feel like play, and learning should feel like progress.”
+
+My goal is to build **fun, engaging, and educational** tools that support students, teachers, and creators — especially those new to the world of programming and game development.
+
+---
+
+## 🤝 Let's Collaborate
+
+Whether you're building an **educational game**, an **interactive coding tool**, or need a creative mind for **experimental interfaces**, I'm open to collaboration!
+
+📬 Reach me through:
+
+- **Facebook:** [Mister Ruiz](https://www.facebook.com/mruizcs)  
+- **LinkedIn:** [hruizcs](https://www.linkedin.com/in/hruizcs)
 ---
 <!---
 hruiz1191/hruiz1191 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
